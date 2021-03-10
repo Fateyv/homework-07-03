@@ -1,0 +1,10 @@
+.fifth_figure {
+    width: 261px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+.fifth_content {
+    width: 146px;
+}

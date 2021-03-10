@@ -1,0 +1,10 @@
+.fourth {
+    background-image: url(../images/man.png);
+    background-repeat: no-repeat;
+    background-position: top 35px left 30px;
+}
+
+.fourth_content {
+    margin-top: 22px;
+    margin-left: 115px;
+}

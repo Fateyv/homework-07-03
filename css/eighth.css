@@ -1,0 +1,12 @@
+.eighth {
+    display: table;
+}
+
+.eighth_row {
+    display: table-row;
+}
+
+.eighth_cell {
+    display: table-cell;
+    vertical-align: middle;
+}

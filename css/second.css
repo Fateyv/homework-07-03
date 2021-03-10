@@ -1,0 +1,13 @@
+.second_figure::after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.image_second {
+    float: left;
+}
+
+.second_content {
+    padding-top: 22px;
+}
